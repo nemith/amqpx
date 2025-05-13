@@ -6,7 +6,7 @@ require (
 	github.com/cenkalti/backoff/v4 v4.3.0
 	github.com/prometheus/client_golang v1.19.1
 	github.com/rabbitmq/amqp091-go v1.10.0
-	github.com/stretchr/testify v1.9.0
+	github.com/stretchr/testify v1.10.0
 	github.com/testcontainers/testcontainers-go/modules/rabbitmq v0.31.0
 	go.uber.org/goleak v1.3.0
 )
