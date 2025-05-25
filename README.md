@@ -1,6 +1,6 @@
 #amqpx
 
-This library is a wrapper around the venerable [`github.com/rabbitmq/amqp091-go`](https://github.com/rabbitmq/amqp091-go) library but adds support for cluster resolution and reconnection support along with some quality of life improvements for declaring queues, exchanges and bindings.
+This library is a wrapper around the venerable [`git pgithub.com/rabbitmq/amqp091-go`](https://github.com/rabbitmq/amqp091-go) library but adds support for cluster resolution and reconnection support along with some quality of life improvements for declaring queues, exchanges and bindings.
 
 ## Usage 
 
