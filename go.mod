@@ -1,4 +1,4 @@
-module github.com/nemith/amqpx
+module nemith.io/amqpx
 
 go 1.24.0
 
